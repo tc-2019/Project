@@ -11,6 +11,6 @@
     <title>测试页面</title>
   </head>
   <body>
-      <H1 style="color: #ff0000">testaaa</H1>
+      <H1 style="color: #ff0000">test</H1>
   </body>
 </html>
